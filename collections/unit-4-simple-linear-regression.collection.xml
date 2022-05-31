@@ -1,0 +1,53 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col23818</md:content-id>
+  <md:title>Unit 4 - Simple Linear Regression</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>83f39d4c-24d4-4f1f-b03c-f5b88185abd0</md:uuid>
+<md:slug>unit-4-simple-linear-regression</md:slug>
+</metadata>
+
+  <col:content>
+    
+      
+        
+      <col:subcollection>
+        <md:title>Chapter 9 - Simple Linear Regression</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m62290"/>
+        
+      
+    
+    
+      <col:module document="m62297"/>
+        
+      
+    
+    
+      <col:module document="m62293"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+  </col:content>
+</col:collection>
